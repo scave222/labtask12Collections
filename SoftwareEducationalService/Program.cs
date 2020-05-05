@@ -65,12 +65,12 @@ namespace SoftwareEducationalService
             col1.Add(57, "56 2000");
              ICollection objCollection = col1.Keys;
 
-            for(var i = 0; i < col1.Count; i++)
-            {
-                foreach(var item in objCollection){
-                    if( > 70)
-                }
-            }
+            // for(var i = 0; i < col1.Count; i++)
+            // {
+            //     foreach(var item in objCollection){
+            //         if( > 70)
+            //     }
+            // }
 
 
             
